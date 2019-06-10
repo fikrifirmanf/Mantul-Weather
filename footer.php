@@ -21,7 +21,7 @@ if (active == "yes") {
 
         <!-- Content -->
         <h5 class="text-uppercase">Mantul Weather</h5>
-        <p>Website perkiraan cuaca sebagai projek UAS Pemrograman Web Lanjut 2019</p>
+        <p>Website perkiraan cuaca</p>
 
       </div>
       <!-- Grid column -->
@@ -37,7 +37,7 @@ if (active == "yes") {
   <!-- Footer Links -->
 
   <!-- Copyright -->
-  <div class="footer-copyright text-center py-3" style="background-color: #026bdc;">© 2019 Copyright: Fikri Firman Fadilah || 1703040024. 
+  <div class="footer-copyright text-center py-3" style="background-color: #026bdc;">© 2019 Copyright: Fikri Firman Fadilah. 
     <a href="http://localhost/" class="text-white"> Mantul Weather</a>
   </div>
   <!-- Copyright -->
