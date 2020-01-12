@@ -1,5 +1,4 @@
 <?php 
-
 error_reporting(E_ALL ^ (E_NOTICE | E_WARNING));
 define(active, "yes");
 
@@ -24,6 +23,3 @@ switch($queries['page']) {
 }
 
 include('footer.php');
-
-
-?>
